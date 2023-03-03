@@ -1,6 +1,6 @@
 # CryptoWeeklyTrends
 
-Este é um projeto que utiliza a API do Pycoingecko para coletar informações sobre o histórico semanal de 10 criptomoedas aleatórias em relação ao dólar americano (USD) e ao real brasileiro (BRL). O projeto também utiliza regressão linear para prever os valores das criptomoedas nas próximas duas semanas.
+Este é um projeto que utiliza a API do Pycoingecko para coletar informações sobre o histórico semanal de 10 criptomoedas aleatórias em relação ao dólar americano (USD). O projeto também utiliza regressão linear para prever os valores das criptomoedas nas próximas duas semanas.
 
 ## Como usar
 
