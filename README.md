@@ -7,7 +7,7 @@ Este é um projeto que utiliza a API do Pycoingecko para coletar informações s
 Para utilizar o CryptoWeeklyTrends, basta clonar este repositório em sua máquina.
 
 
-Em seguida, basta executar o arquivo `crypto_weekly_trends.py`. O resultado será uma tabela em formato CSV com as informações históricas e previstas para as criptomoedas selecionadas.
+Em seguida, basta executar o arquivo `crypto_weekly_trends.ipynb`. O resultado será uma tabela em formato CSV com as informações históricas e previstas para as criptomoedas selecionadas.
 
 ## Licença
 
